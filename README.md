@@ -26,7 +26,7 @@ Here we have checking customer loan status is approval or not with general detai
  
  Loan_Status : Loan approved (Y/N) this is the target variable
 
-#This a practice project for Classification model with models Logistic Regression At the end, Logistic Regression gave the best result.
+# This a practice project for Classification model with models Logistic Regression At the end, Logistic Regression gave the best result.
 
 Dataset :- https://www.kaggle.com/datasets/granjithkumar/loan-approval-data-set
 
